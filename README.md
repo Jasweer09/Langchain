@@ -53,7 +53,7 @@ This section walks you through building a basic LangChain application from scrat
    from dotenv import load_dotenv
    import os
 
-   load_dotenv(dotenv_path=r"C:\Jasweer\my_project\Langchain\.env")
+   load_dotenv(dotenv_path=r"\Langchain\.env")
    ```
 
 3. **Set Up Azure OpenAI Credentials**:
